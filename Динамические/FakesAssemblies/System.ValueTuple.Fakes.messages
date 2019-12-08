@@ -1,0 +1,4 @@
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические\Fakes\System.ValueTuple.fakes : warning : Невозможно создать заглушку для FxResources.System.ValueTuple.SR: тип является запечатанным.
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические\Fakes\System.ValueTuple.fakes : warning : Невозможно создать заглушку для System.SR: тип является запечатанным.
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические\Fakes\System.ValueTuple.fakes : warning : Невозможно создать оболочку совместимости для FxResources.System.ValueTuple.SR: тип невидим для exported or assembly(System.ValueTuple.Fakes).
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические\Fakes\System.ValueTuple.fakes : warning : Невозможно создать оболочку совместимости для System.SR: тип невидим для exported or assembly(System.ValueTuple.Fakes).

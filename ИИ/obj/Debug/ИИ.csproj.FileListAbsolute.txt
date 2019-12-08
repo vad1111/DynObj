@@ -1,0 +1,65 @@
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\ИИ.exe.config
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\ИИ.exe
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\ИИ.pdb
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.csprojResolveAssemblyReference.cache
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ОкноХранилища.baml
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ОкноХранилища.g.cs
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ_MarkupCompile.cache
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.g.resources
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.Properties.Resources.resources
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.csproj.GenerateResource.Cache
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.exe
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.pdb
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ_MarkupCompile.lref
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\Текстовый Ввод.baml
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\Текстовый Ввод.g.cs
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\Текстовый Вывод.baml
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\Текстовый Вывод.g.cs
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\ИИ.exe.config
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.exe
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.pdb
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\ИИ.exe
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\ИИ.pdb
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\Динамические.dll
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\Динамические.pdb
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.csprojResolveAssemblyReference.cache
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\Текстовый Ввод.baml
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\Текстовый Вывод.baml
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ОкноХранилища.g.cs
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\Текстовый Ввод.g.cs
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\Текстовый Вывод.g.cs
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ_MarkupCompile.cache
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ_MarkupCompile.lref
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ОкноХранилища.baml
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.g.resources
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.Properties.Resources.resources
+D:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.csproj.GenerateResource.Cache
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\System.ValueTuple.dll
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.csproj.CoreCompileInputs.cache
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\System.ValueTuple.xml
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\Динамические2.dll
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\bin\Debug\Динамические2.pdb
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Debug\ИИ.csproj.CopyComplete
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ИИ.csprojAssemblyReference.cache
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\Текстовый Ввод.baml
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\Текстовый Вывод.baml
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ОкноХранилища.g.cs
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\Текстовый Ввод.g.cs
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\Текстовый Вывод.g.cs
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ИИ_MarkupCompile.cache
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ИИ_MarkupCompile.lref
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ИИ.exe
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ИИ.pdb
+C:\Users\вад\source\repos\Динаические объекты\ИИ\bin\Debug\ИИ.exe.config
+C:\Users\вад\source\repos\Динаические объекты\ИИ\bin\Debug\ИИ.exe
+C:\Users\вад\source\repos\Динаические объекты\ИИ\bin\Debug\ИИ.pdb
+C:\Users\вад\source\repos\Динаические объекты\ИИ\bin\Debug\System.ValueTuple.dll
+C:\Users\вад\source\repos\Динаические объекты\ИИ\bin\Debug\Динамические2.dll
+C:\Users\вад\source\repos\Динаические объекты\ИИ\bin\Debug\Динамические2.pdb
+C:\Users\вад\source\repos\Динаические объекты\ИИ\bin\Debug\System.ValueTuple.xml
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ОкноХранилища.baml
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ИИ.g.resources
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ИИ.Properties.Resources.resources
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ИИ.csproj.GenerateResource.cache
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ИИ.csproj.CoreCompileInputs.cache
+C:\Users\вад\source\repos\Динаические объекты\ИИ\obj\Debug\ИИ.csproj.CopyComplete

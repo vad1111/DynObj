@@ -1,0 +1,26 @@
+﻿<Window x:Class="ИИ.ОкноХранилища"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:д="clr-namespace:Динамические;assembly=Динамические"
+        xmlns:ии="clr-namespace:ИИ"
+        Title="Хранилище" Height="350" Width="525">
+
+
+    <Grid>
+        <ListBox x:Name="ListBoxХранилище"  > 
+                 <!--ItemsSource="{x:Static д:Хранилище.Память}"--> 
+                 
+            <ListBox.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Добавить" Click="MenuItem_OnClick_Добавить" ></MenuItem>
+                    <MenuItem Header="Удалить" Click="MenuItem_OnClick_Удалить" ></MenuItem>
+                    <MenuItem Header="Обновить" Click="MenuItem_OnClick_Обновить" ></MenuItem>
+                    <MenuItem Header="Сохранить" Click="MenuItemClickСохранить"></MenuItem>
+                    <MenuItem Header="Восстановить" Click="MenuItem_OnClick_Востановить"></MenuItem>
+                    
+                </ContextMenu>
+            </ListBox.ContextMenu>
+            
+        </ListBox>
+    </Grid>
+</Window>

@@ -1,0 +1,8 @@
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Release\ИИ.csprojResolveAssemblyReference.cache
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Release\Текстовый Ввод.baml
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Release\Текстовый Вывод.baml
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Release\ОкноХранилища.g.cs
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Release\Текстовый Ввод.g.cs
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Release\Текстовый Вывод.g.cs
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Release\ИИ_MarkupCompile.cache
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\ИИ\obj\Release\ИИ_MarkupCompile.lref

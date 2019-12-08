@@ -1,0 +1,5 @@
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические\bin\Release\Динамические.dll
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические\bin\Release\Динамические.pdb
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические\bin\Release\System.ValueTuple.dll
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические\obj\Release\Динамические.dll
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические\obj\Release\Динамические.pdb

@@ -1,0 +1,12 @@
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические2\obj\Debug\Динамические2.csprojResolveAssemblyReference.cache
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические2\obj\Debug\Динамические2.csproj.CoreCompileInputs.cache
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические2\bin\Debug\Динамические2.dll
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические2\bin\Debug\Динамические2.pdb
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические2\obj\Debug\Динамические2.dll
+C:\Users\вад\Documents\Visual Studio 2013\Projects\Динаические объекты\Динамические2\obj\Debug\Динамические2.pdb
+C:\Users\вад\source\repos\Динаические объекты\Динамические2\obj\Debug\Динамические2.csprojAssemblyReference.cache
+C:\Users\вад\source\repos\Динаические объекты\Динамические2\obj\Debug\Динамические2.csproj.CoreCompileInputs.cache
+C:\Users\вад\source\repos\Динаические объекты\Динамические2\obj\Debug\Динамические2.dll
+C:\Users\вад\source\repos\Динаические объекты\Динамические2\obj\Debug\Динамические2.pdb
+C:\Users\вад\source\repos\Динаические объекты\Динамические2\bin\Debug\Динамические2.dll
+C:\Users\вад\source\repos\Динаические объекты\Динамические2\bin\Debug\Динамические2.pdb

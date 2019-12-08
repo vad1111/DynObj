@@ -1,0 +1,8 @@
+﻿<Window x:Class="ИИ.Текстовый_Ввод"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Текстовый_Ввод" Height="94" Width="678">
+    <Grid>
+        <TextBox x:Name="TextBoxТекст" KeyUp="TextBoxТекст_KeyUp" TextChanged="TextBoxТекст_OnTextChanged" Margin="0,10,0,19" ></TextBox>
+    </Grid>
+</Window>

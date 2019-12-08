@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{73C2CB20-3E6D-488A-AC6A-C91CCEC6F77A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Динамические2</RootNamespace>
+    <AssemblyName>Динамические2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HTML.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Адрес.cs" />
+    <Compile Include="активности\активности.cs" />
+    <Compile Include="активности\АктивностьГруппа.cs" />
+    <Compile Include="активности\АктивностьСложение.cs" />
+    <Compile Include="активности\Канал.cs" />
+    <Compile Include="активности\КаналПамять.cs" />
+    <Compile Include="активности\КаналПамятьПсевдо.cs" />
+    <Compile Include="активности\КаналТСПС.cs" />
+    <Compile Include="активности\МодельКанала.cs" />
+    <Compile Include="активности\ОбразАктивности.cs" />
+    <Compile Include="активности\Пересылщик.cs" />
+    <Compile Include="активности\ПространствоИмен.cs" />
+    <Compile Include="активности\Псевдоактивности.cs" />
+    <Compile Include="активности\ПСтрока.cs" />
+    <Compile Include="активности\распознование\псевдонейроны.cs" />
+    <Compile Include="активности\РегистраторАдресов.cs" />
+    <Compile Include="активности\Связь.cs" />
+    <Compile Include="активности\СвязьСтарая.cs" />
+    <Compile Include="Байтовые шаблоны.cs" />
+    <Compile Include="Виды\ВидВыбор.cs" />
+    <Compile Include="Виды\ВидГруппаГоризонтальная.cs" />
+    <Compile Include="Виды\ВидГруппаОбъектов.cs" />
+    <Compile Include="Виды\ВидЗначениеАдреса.cs" />
+    <Compile Include="Виды\ВидОкно.cs" />
+    <Compile Include="Виды\ВидСимвола.cs" />
+    <Compile Include="Виды\ВидСтрока.cs" />
+    <Compile Include="Виды\ВыборВидов.cs" />
+    <Compile Include="Виды\Клавиатура.cs" />
+    <Compile Include="Виды\конекторКListBox.cs" />
+    <Compile Include="Виды\Мышь.cs" />
+    <Compile Include="Виды\ОбщийВид.cs" />
+    <Compile Include="Группы\ГруппаСКучей.cs" />
+    <Compile Include="Группы\ГруппаСШаблоном.cs" />
+    <Compile Include="Группы\Группы.cs" />
+    <Compile Include="Группы\ДисковоеХранилище.cs" />
+    <Compile Include="Группы\Перевод.cs" />
+    <Compile Include="Группы\Перечисление.cs" />
+    <Compile Include="Группы\Словарь.cs" />
+    <Compile Include="Группы\Хранилище.cs" />
+    <Compile Include="Группы\Прокси.cs" />
+    <Compile Include="действия\действия.cs" />
+    <Compile Include="действия\Класс и экземпляр.cs" />
+    <Compile Include="действия\Нечеткий метод.cs" />
+    <Compile Include="действия\ОпределениеДействия.cs" />
+    <Compile Include="действия\Отвлечение.cs" />
+    <Compile Include="действия\Процессор.cs" />
+    <Compile Include="Класс.cs" />
+    <Compile Include="Команда.cs" />
+    <Compile Include="Переадресация.cs" />
+    <Compile Include="примитивы.cs" />
+    <Compile Include="Примитивы\Символ.cs" />
+    <Compile Include="Расширение Type.cs" />
+    <Compile Include="Реакция.cs" />
+    <Compile Include="самообучение\разбор предложения.cs" />
+    <Compile Include="самообучение\шаблоны.cs" />
+    <Compile Include="Сервер хранилища.cs" />
+    <Compile Include="Сообщение.cs" />
+    <Compile Include="суперпримитивы.cs" />
+    <Compile Include="Счетчик Тактов.cs" />
+    <Compile Include="Удаленный примитив.cs" />
+    <Compile Include="ЦелоеКлиент.cs" />
+    <Compile Include="ЦелоеСервер.cs" />
+    <Compile Include="Числа.cs" />
+    <Compile Include="ШироковещательнаяАктивность.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="активности\Мысли.txt" />
+    <Content Include="активности\распознование\рас.txt" />
+    <Content Include="активности\связь классификация.txt" />
+    <Content Include="Группы\Классификация Групп.txt" />
+    <Content Include="самообучение\самобучение.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
